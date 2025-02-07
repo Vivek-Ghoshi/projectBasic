@@ -7,6 +7,7 @@
      html,body{
      height:100%;
      width: 100%;
+     background-color: white;
 }
 .main{
   width: 100vw;
@@ -16,7 +17,6 @@
   grid-template-rows:  30% 50% 20%  ;
 }
 .top-left{
-
   padding: 5vh 5vh;
 }
 .top-left .square{
@@ -44,7 +44,7 @@
 }
 .center h1{
   font-family: gilroy;
-  font-size: 6vw;
+  font-size: 5vw;
   text-transform: uppercase;
 }
 .center h1:nth-child(2){
